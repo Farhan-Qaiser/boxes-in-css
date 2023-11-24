@@ -1,0 +1,198 @@
+/* BOX Dimensions */
+/* 
+div{
+    height: 300px;
+    width: 300px;
+    background-color: #bbbbaa;
+}
+p{
+    width: 20%;
+} */
+
+/* limiting width */
+
+/* td.description {
+    min-width: 450px;
+    max-width: 650px;
+    text-align: left;
+    padding: 5px;
+    margin: 0px;
+} */
+
+/* limiting hieght */
+/* 
+h2,
+p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;
+}
+
+h2 {
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;
+}
+
+p {
+    min-height: 10px;
+    max-height: 30px;
+} */
+
+
+/* OVERFLOW */
+/* 
+p{
+    max-height: 250px;
+    border: 1px solid darksalmon;
+    overflow: scroll;
+} */
+
+
+/* BORDER WIDTH */
+/* explicit properties */
+/* p{
+    border-style: solid;
+    border-width: thick;
+} */
+/* short hand */
+/* p{
+    border-width: 1px 2px 3px 4px;
+} */
+
+/* one by one */
+/* p{
+    border: top width 1px;
+    border: right width 2px;
+    border: bottom width 3px;
+    border: left width 4px;
+} */
+
+/* border style */
+/*  */
+/* p{
+    border: 1px  darksalmon;}
+    p.one {
+            border-style: solid;
+        }
+    
+        p.two {
+            border-style: dotted;
+        }
+    
+        p.three {
+            border-style: dashed;
+        }
+    
+        p.four {
+            border-style: double;
+        }
+    
+        p.five {
+            border-style: groove;
+        }
+    
+        p.six {
+            border-style: ridge;
+        }
+    
+        p.seven {
+            border-style: inset;
+        }
+    
+        p.eight {
+            border-style: outset;
+        } */
+
+
+        /* Padding */
+/* 
+        p{
+            border: 1px solid darksalmon;
+            padding: 20px 10px 30px 50px;
+        } */
+/* margin */
+/* p{
+    border: 1px solid darksalmon;
+    margin: 50px 10px 20px 40px;
+}
+.p{
+    margin-top: 70px;
+} */
+
+/* centering content */
+/* 
+body {
+    text-align: center;
+}
+
+p {
+    width: 300px;
+    padding: 50px;
+    border: 20px solid #0088dd;
+}
+
+p.example {
+    margin: 10px auto 10px auto;
+    text-align: left;
+} */
+
+/* change Inline-block */
+/* li{
+    display: inline;
+    margin-right: 10px;
+}
+
+li.coming-soon {
+    display: none;
+} */
+
+/* HIDING boxes */
+/* 
+li{
+    display: inline;
+    margin-right: 10px;
+}
+
+li.coming-soon {
+    visibility: hidden;
+} */
+
+/* 9-borderImages */
+/* p.one{
+    border: 30px  ;
+    padding: 50px;
+    border-image: url(./assets/images/images.jpg) 30 round;
+
+} */
+
+/* box shadow */
+/* .one{
+    width: 20px;
+    box-shadow:0px 0px 20px red;
+} */
+
+/* rounded corners */
+
+/* p{
+    width: 10px;
+    border: 1px solid darksalmon;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+    padding: 30px;
+    border-radius: 20px 30px 40px 60px;
+    color: aliceblue;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 50px;
+     border-bottom-right-radius: 50px;
+} */
+/* body{
+    background-color: black;
+}
+div{
+    border-radius:50%;
+    background-color: white ;
+    height: 50px;
+    width: 50px;
+} */
